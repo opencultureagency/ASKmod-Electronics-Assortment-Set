@@ -6,7 +6,7 @@
 
 ## Electronics Assortment Set
 
-![#ASKmod Electronics Assortment Set](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/blob/927aae7777892c6d121099a9b369728b92550082/images/ASKmod-Electronics-Assortment-Set.jpg)
+![#ASKmod Electronics Assortment Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Electronics-Assortment-Set/927aae7777892c6d121099a9b369728b92550082/images/ASKmod-Electronics-Assortment-Set.jpg)
 
 ## Items
 
