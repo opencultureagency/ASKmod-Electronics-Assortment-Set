@@ -4,7 +4,7 @@
 
 The electronic assortment contains all important electronic components to develop new devices or to replace spare parts.
 
-![#ASKmod Electronics Assortment Set](/images/ASKmod-Electronics-Assortment-Set.jpg)
+![#ASKmod Electronics Assortment Set](images/ASKmod-Electronics-Assortment-Set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-electronics-assortment-set/)
 
@@ -19,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/tree/v.1.0.0): [content file](CONTENT.md)
+- [v.1.0](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/tree/v.1.0.0): See all parts in the [content file](CONTENT.md)
 
 ## Contributers
 
