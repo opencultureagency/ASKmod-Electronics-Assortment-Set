@@ -19,7 +19,8 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/tree/v.1.0.0): See all parts in the [content file](CONTENT.md)
+- [v.1.1.0](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/tree/v.1.1.0): Removed 5x 1 Way Switches and 5x 3 Way Switches [content file](CONTENT.md)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set/tree/v.1.0.0): See all parts in the [content file](CONTENT.md)
 
 ## Contributers
 
